@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/box-offce/static/css/main.5fffadb5.chunk.css",
-    "main.js": "/box-offce/static/js/main.c7cd5e96.chunk.js",
-    "main.js.map": "/box-offce/static/js/main.c7cd5e96.chunk.js.map",
+    "main.js": "/box-offce/static/js/main.5d78c341.chunk.js",
+    "main.js.map": "/box-offce/static/js/main.5d78c341.chunk.js.map",
     "runtime-main.js": "/box-offce/static/js/runtime-main.16d7990f.js",
     "runtime-main.js.map": "/box-offce/static/js/runtime-main.16d7990f.js.map",
     "static/js/2.8ff884c0.chunk.js": "/box-offce/static/js/2.8ff884c0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.16d7990f.js",
     "static/js/2.8ff884c0.chunk.js",
     "static/css/main.5fffadb5.chunk.css",
-    "static/js/main.c7cd5e96.chunk.js"
+    "static/js/main.5d78c341.chunk.js"
   ]
 }
